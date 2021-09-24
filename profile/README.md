@@ -1,6 +1,9 @@
 <p align="center"><a href="https://metacall.io/" target="_blank"><img src="https://github.com/metacall.png" width="36%"></a></p>
 
 <h1 align="center"> <b> MetaCall </b> </h1>
+
+<h3 align="center"><a href="https://metacall.io"><b><i>MetaCall.io</b></i></a></h3>
+
 <h2 align="center"><i>From DevOps to NoOps automatically. Push your code to generate APIs and deploy Polyglot Applications in the Cloud. </i>👨‍💻</h2>
 
 <br>
@@ -9,7 +12,7 @@
 
 <br>
 
-<h2 align="center"><b> Join Our Community</b></h2>
+<h2 align="center"><b> Join Our Community </b></h2>
 
 <br>
 
@@ -43,5 +46,6 @@
 - [Core](https://github.com/metacall/core): The ultimate polyglot programming experience.
 - [Deploy](https://github.com/metacall/deploy): Tool for deploying into MetaCall FaaS platform.
 - [Examples](https://github.com/metacall/examples): A collection of use cases and examples to be deployed in MetaCall.
+- [Fass](https://github.com/metacall/faas): The FaaS platform for MetaCall.
 
 <br>
