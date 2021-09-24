@@ -1,6 +1,6 @@
 <p align="center"><a href="https://metacall.io/" target="_blank"><img src="https://github.com/metacall.png" width="36%"></a></p>
 
-<h1 align="center"> <b> MetaCall<b> </h1>
+<h1 align="center"> <b> MetaCall </b> </h1>
 <h2 align="center"><i>From DevOps to NoOps automatically. Push your code to generate APIs and deploy Polyglot Applications in the Cloud. </i>👨‍💻</h2>
 
 <br>
