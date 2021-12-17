@@ -46,6 +46,6 @@
 - [Core](https://github.com/metacall/core): The ultimate polyglot programming experience.
 - [Deploy](https://github.com/metacall/deploy): Tool for deploying into MetaCall FaaS platform.
 - [Examples](https://github.com/metacall/examples): A collection of use cases and examples to be deployed in MetaCall.
-- [Faas](https://github.com/metacall/faas): The FaaS platform for MetaCall.
+- [FaaS](https://github.com/metacall/faas): The FaaS platform for MetaCall.
 
 <br>
