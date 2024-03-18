@@ -16,7 +16,7 @@
 
 <br>
 
-> _We strive for making MetaCall simple, frictionless and the best experience for developers of all kind. All we have achieved up to today could not have been possible without the constant feedback from our community._
+> We strive for making MetaCall simple, frictionless and the best experience for developers of all kind. All we have achieved up to today could not have been possible without the constant feedback from our community.
 
 <br>
 
