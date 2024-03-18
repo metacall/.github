@@ -4,7 +4,7 @@
 
 <h3 align="center"><a href="https://metacall.io"><b><i>MetaCall.io</b></i></a></h3>
 
-<h2 align="center"><i>From DevOps to NoOps automatically. Push your code to generate APIs and deploy Polyglot Applications in the Cloud. </i>👨‍💻</h2>
+<h2 align="center">From DevOps to NoOps automatically. Push your code to generate APIs and deploy Polyglot Applications in the Cloud. 👨‍💻</h2>
 
 <br>
 
